@@ -5,6 +5,7 @@
 
 <h1>Please rate Landon as a best friend.</h1>
 
+<p>
 <h2>Is Landon a good best friend?</h2>
     <div>
         <input type="radio"  name="answer" value="Yes" id="yes">
@@ -40,11 +41,14 @@
         <input type="radio"  name="answer" value="Sometimes I wish he could be less hot" id="lessHot">
         <label for="lessHot">Sometimes I wish he could be less hot</label>
     </div>
+</p>
 
+<p>
 <h2>How likely are you to recommend Landon to a friend?</h2>
     <div>
         <input type="radio"  name="answer" value="Very liekly" id="very">
         <label for="very">Very likely</label>
     </div>
+</p>
 </html>
     
