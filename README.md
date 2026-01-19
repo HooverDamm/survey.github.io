@@ -20,7 +20,7 @@
         <label for="wAD">Without a doubt</label>
     </div>
 
-    <h2>Is there anything you wish Landon did better?</h2>
+<h2>Is there anything you wish Landon did better?</h2>
     <div>
         <input type="radio"  name="second" value="No" id="no">
         <label for="no">No</label>
@@ -38,7 +38,7 @@
         <label for="lessHot">Sometimes I wish he could be less hot</label>
     </div>
 
-    <h2>How likely are you to recommend Landon to a friend?</h2>
+<h2>How likely are you to recommend Landon to a friend?</h2>
     <div>
         <input type="radio"  name="third" value="Very likely" id="very">
         <label for="very">Very likely</label>
